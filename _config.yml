@@ -1,0 +1,6 @@
+name: "Flashpops"
+baseurl: "https://ecto-finance.github.io/flashpopsxyz/"
+title: null
+markdown: GFM
+plugins:
+  - jemoji
